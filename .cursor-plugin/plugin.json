@@ -1,0 +1,26 @@
+{
+  "name": "credos",
+  "displayName": "Credos",
+  "description": "Share your coding best practices with Cursor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Credos",
+    "email": "contact@credos.dev",
+    "url": "https://credos.dev"
+  },
+  "homepage": "https://github.com/credos-inc/cursor-plugin",
+  "repository": "https://github.com/credos-inc/cursor-plugin",
+  "logo": "assets/logo.png",
+  "mcpServers": "./.mcp.json",
+  "keywords": [
+    "credos",
+    "coding-best-practices",
+    "coding-standards",
+    "coding-rules",
+    "project-conventions",
+    "team-conventions",
+    "coding-principles",
+    "coding-preferences"
+  ],
+  "license": "MIT"
+}
