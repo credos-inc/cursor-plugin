@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // use Prettier as default file formatter
+  "prettier.requireConfig": true, // use local config file. otherwise fallback to global
+  "prettier.configPath": "prettier.cjs"
+}
