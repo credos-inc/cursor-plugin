@@ -1,7 +1,7 @@
 {
   "name": "credos",
   "displayName": "Credos",
-  "description": "Share your coding best practices with Cursor.",
+  "description": "Dynamically share your coding best practices with Cursor.",
   "version": "1.0.0",
   "author": {
     "name": "Credos",
