@@ -1,5 +1,5 @@
 {
-  "name": "credos",
+  "name": "Credos",
   "displayName": "Credos",
   "description": "Dynamically share your coding best practices with Cursor.",
   "version": "1.0.0",
@@ -8,7 +8,7 @@
     "email": "contact@credos.dev",
     "url": "https://credos.dev"
   },
-  "homepage": "https://github.com/credos-inc/cursor-plugin",
+  "homepage": "https://credos.dev",
   "repository": "https://github.com/credos-inc/cursor-plugin",
   "logo": "assets/logo.png",
   "mcpServers": "./.mcp.json",
