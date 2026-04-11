@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "credos": {
+    "Credos": {
       "type": "http",
       "url": "https://mcp.credos.dev",
       "headers": {

@@ -20,7 +20,8 @@
     "project-conventions",
     "team-conventions",
     "coding-principles",
-    "coding-preferences"
+    "coding-preferences",
+    "coding-styles"
   ],
   "license": "MIT"
 }
