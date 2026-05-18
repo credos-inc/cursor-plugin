@@ -1,6 +1,6 @@
 # Credos
 
-Share your team's coding best practices with Cursor.
+Share your agent rules and skills with Cursor via MCP.
 
 ---
 

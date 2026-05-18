@@ -1,7 +1,7 @@
 {
   "name": "Credos",
   "displayName": "Credos",
-  "description": "Share your coding best practices with Cursor.",
+  "description": "Share your agent rules and skills with Cursor.",
   "version": "1.0.0",
   "author": {
     "name": "Credos",
@@ -14,9 +14,12 @@
   "mcpServers": "./.mcp.json",
   "keywords": [
     "credos",
+    "rules",
+    "skills",
+    "agent-rules",
+    "agent-skills",
     "coding-best-practices",
     "coding-standards",
-    "rules",
     "coding-rules",
     "project-conventions",
     "team-conventions",
